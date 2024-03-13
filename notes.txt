@@ -1,1 +1,3 @@
-Fabrice
+nom, prenom, notes
+Tsapfack, Fabrice, 18
+nzotcha, Helane, 15
